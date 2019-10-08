@@ -7,3 +7,7 @@ This a collaborative project of a CRUP App developed in Ruby on rails, as a part
 <h1><b> Authors:</b></h1>
 <a href="https://github.com/AlejoCode">Daniel Alejandro Salgado</a>  --- <a href="https://github.com/gonjavi/">Gonzalo Javier Mancilla</a> 
 
+<h1>Live version:</h1> 
+<a href="">Live version</a>
+
+
