@@ -1,24 +1,9 @@
-# README
+#RailsCRUDApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a collaborative project of a CRUP App developed in Ruby on rails, as a part of the assignment for microverse integrating the Users controller, User model, and users views to work with the form.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+<h1><b> Authors:</b></h1>
+<a href="https://github.com/AlejoCode">Daniel Alejandro Salgado</a>  --- <a href="https://github.com/gonjavi/">Gonzalo Javier Mancilla</a> 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
