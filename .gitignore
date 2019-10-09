@@ -34,3 +34,6 @@
 yarn-debug.log*
 .yarn-integrity
 
+
+/temp/*
+/log/development.log
