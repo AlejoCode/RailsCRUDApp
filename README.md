@@ -1,6 +1,6 @@
 #RailsCRUDApp
 
-This a collaborative project of a CRUP App developed in Ruby on rails, as a part of the assignment for microverse integrating the Users controller, User model, and users views to work with the form.
+This a collaborative project of a CRUP App developed in Ruby on rails, as a part of the assignment for microverse, integrating the Users controller, User model, and users views to work with the form.
 
 
 
