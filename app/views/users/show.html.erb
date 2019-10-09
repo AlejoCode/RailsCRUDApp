@@ -1,0 +1,54 @@
+
+
+<div class="card bg-dark text-white">
+  <div class="card-header ">
+    User : 
+  </div>
+  <div class="card-body">
+
+  <div class="row mt-3">
+    <div class="col-12 text-center">
+
+      <p id="notice"><%= notice %></p>
+
+      <p>
+        <strong>Username:</strong>
+        <%= @user.username %>
+      </p>
+      <p>
+    </div>
+  </div>
+
+    <div class="row mt-3">
+    <div class="col-12 text-center ">
+
+      <p>
+        <strong>Email:</strong>
+        <%= @user.mail %>
+      </p>
+    </div>
+  </div>
+
+    <div class="row mt-3">
+    <div class="col-12 text-center">
+      <p>
+        <strong>Password:</strong>
+        <%= @user.password %>
+      </p>
+
+    </div>
+  </div>
+
+    <div class="row mt-4 mb-4 ">
+    <div class="col-12 text-center">
+      <%= link_to 'Edit', edit_user_path(@user) , class: 'btn btn-primary'%>
+
+    </div>
+
+
+    </div>
+  </div>
+  </div>
+        <div class="col-12 text-center mt-5">
+      <%= link_to 'Back', users_path , class: 'btn btn-outline-info'%>
+    </div>
