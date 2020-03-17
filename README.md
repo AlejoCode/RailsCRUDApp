@@ -3,11 +3,8 @@
 This a collaborative project based on a CRUP App developed in Ruby on rails, as a part of the assignment for microverse, integrating the Users controller, User model, and users views, using a form.
 
 
-
 ![screenshot](./crud.png)
 
-The project proposed is in the link below:
-<a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project">www.theodinproject.com/final-project</a>
 
 ## Authors:
  👤 **Gonza Javier Mancilla**
