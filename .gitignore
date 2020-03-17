@@ -51,8 +51,8 @@ bower.json
 .byebug_history
 
 # Ignore node_modules
-node_modules/
-
+/node_modules
+/yarn-error.log
 # Ignore precompiled javascript packs
 /public/packs
 /public/packs-test
